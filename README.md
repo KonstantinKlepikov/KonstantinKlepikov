@@ -5,7 +5,9 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KlepikovKonstantin)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oformleno@gmail.com)
 
-[My blog](https://konstantinklepikov.github.io/)
+[My blog [rus]](https://konstantinklepikov.github.io/)
+
+[resume [rus]](https://docs.google.com/document/d/1do2UMV37vm_Q2FQ7heY_88UgdcDIR23tTUkg5sGNzss/edit#heading=h.wmxz23i24zxj)
 
 ---
 
