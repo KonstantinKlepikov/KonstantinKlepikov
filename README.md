@@ -7,7 +7,7 @@
 
 [My blog [rus]](https://konstantinklepikov.github.io/)
 
-[resume [rus]](https://docs.google.com/document/d/1do2UMV37vm_Q2FQ7heY_88UgdcDIR23tTUkg5sGNzss/edit#heading=h.wmxz23i24zxj)
+[My resume [rus]](https://konstantinklepikov.github.io/assets/public.pdf)
 
 ---
 
