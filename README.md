@@ -1,13 +1,13 @@
 # Konstantin Klepikov
 
-## I'm a Python devoper, DS and ML engeneer from Russia
+## I'm a Python devoper, DS and ML engeneer
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KlepikovKonstantin)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oformleno@gmail.com)
 
-[My blog [rus]](https://konstantinklepikov.github.io/)
+[My blog](https://konstantinklepikov.github.io/)
 
-[My resume [rus]](https://konstantinklepikov.github.io/assets/public.pdf)
+[My resume](https://konstantinklepikov.github.io/assets/public.pdf)
 
 ---
 
