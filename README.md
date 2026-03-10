@@ -11,8 +11,6 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KonstantinKlepikov&no-frame=true&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![KonstantinKlepikov's GitHub stats](https://github-readme-stats.vercel.app/api?username=KonstantinKlepikov&count_private=true&show_icons=true&theme=dracula&bg_color=30,7f03fc,fc037f&title_color=fff&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantinKlepikov&layout=compact&hide=jupyter%20notebook,html,css,scss&theme=dracula&bg_color=30,ff69b4,7f03fc&title_color=fff&hide_border=true&langs_count=5)
@@ -33,6 +31,7 @@
 
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
 <a href="https://www.iso.org/standard/74528.html" title="C"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/c.svg" alt="C" width="21px" height="21px"></a>
+<a href="https://isocpp.org/" title="C++" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="21px" height="21px" style="max-width: 100%; height: auto; max-height: 21px;"></a>
 <a href="https://pandas.pydata.org/" title="pandas"><img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="pandas" width="21px" height="21px"></a>
 <a href="https://numpy.org/" title="NumPy"><img src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" alt="NumPy" width="21px" height="21px"></a>
 <a href="https://pytorch.org/" title="PyTorch"><img src="https://github.com/get-icon/geticon/raw/master/icons/pytorch.svg" alt="PyTorch" width="21px" height="21px"></a>
